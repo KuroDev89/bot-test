@@ -38,4 +38,4 @@ async def on_ready():
     await bot.change_presence(activity=discord.Streaming(name="Gameplays", url="https://www.twitch.tv/kurodogames"))
     print ('My bot is online')
 
-bot.run('NzQ5ODAxOTY4NDUyNTAxNjY1.X0xRfw.FirdVQ2TJ-PLUBkCTTCq7VnH9Jg')
+bot.run('') #REEEMPLAZAR TOKEN AL SUBIR#
